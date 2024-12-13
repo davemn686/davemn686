@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm David Lonski!  
+![1725547599421](https://github.com/user-attachments/assets/a18334e4-1b6a-4aec-a15f-9f4554a15352)
 
 Welcome to my GitHub profile! I'm a **Computer Science student** passionate about leveraging technology to solve real-world problems. My journey has led me to explore a variety of fields within computer science, with a strong focus on **Artificial Intelligence** and **Optical Character Recognition (OCR)**.
 
