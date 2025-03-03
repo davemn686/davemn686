@@ -36,7 +36,7 @@ I’m currently immersed in an independent study on **Optical Character Recognit
 ## 📫 How to Reach Me  
 Feel free to connect with me via email or LinkedIn:  
 - Email: **davelonski12@outlook.com**  
-- LinkedIn: **www.linkedin.com/in/david-lonski-867766275**  
+- LinkedIn: **www.linkedin.com/in/davidlonski
 
 ---
 
