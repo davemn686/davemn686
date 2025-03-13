@@ -3,7 +3,7 @@
 ![download](https://github.com/user-attachments/assets/9739ad48-f966-42ac-8400-5d758e03c52b)
 
 
-Welcome to my GitHub profile! I'm a **Computer Science student** passionate about leveraging technology to solve real-world problems. My journey has led me to explore a variety of fields within computer science, with a strong focus on **Artificial Intelligence** and **Optical Character Recognition (OCR)**.
+Welcome to my GitHub profile! I'm a **Computer Science student** passionate about leveraging technology to solve real-world problems. My journey has led me to explore a variety of fields within computer science, with a strong focus on **Backend Development** and **Database Management**.
 
 ---
 
@@ -14,6 +14,8 @@ One of my most exciting projects is **AI Edu Ally**, an initiative to develop AI
 
 ### 📚 **Independent Study in OCR**  
 I’m currently immersed in an independent study on **Optical Character Recognition (OCR)**, exploring its applications and building solutions to process and interpret text from images. This work is helping me delve into computer vision and machine learning.
+
+### 😎 **Independent Study in Genrational Adversarial Networks (GANs) importantly (DCGANs)
 
 ---
 
