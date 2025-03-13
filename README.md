@@ -10,12 +10,12 @@ Welcome to my GitHub profile! I'm a **Computer Science student** passionate abou
 ## 🌟 Highlights  
 
 ### 🔭 **AI Edu Ally Project**  
-One of my most exciting projects is **AI Edu Ally**, an initiative to develop AI-driven tools that enhance educational accessibility and engagement. The project is aimed at creating intuitive systems that support personalized learning experiences. Stay tuned as I continue to innovate in this space!
 
-### 📚 **Independent Study in OCR**  
-I’m currently immersed in an independent study on **Optical Character Recognition (OCR)**, exploring its applications and building solutions to process and interpret text from images. This work is helping me delve into computer vision and machine learning.
+### 📚 **Independent Study in (OCR)**  
 
-### 😎 **Independent Study in Genrational Adversarial Networks (GANs) importantly (DCGANs)**
+### 😎 **Independent Study in (DCGANs)**
+ 
+### ✨ **Course Registration WebApp**
 
 ---
 
